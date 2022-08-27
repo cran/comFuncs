@@ -1,4 +1,4 @@
-50f65c064dee52530e5f0a122cf49a57 *DESCRIPTION
+dd01e56d89b2e6b650fec2e07ee02f73 *DESCRIPTION
 a27e9a3170dad2e7dd465176f15596bd *LICENSE
 8ccac1b9d144d2319bf79762d41fd20d *NAMESPACE
 aa9513350d6f0ca55241598fb0116fa3 *R/cvt_class2df.R
@@ -6,7 +6,7 @@ aa9513350d6f0ca55241598fb0116fa3 *R/cvt_class2df.R
 c96b7ef1ff3bacc415f3f89c67499832 *R/get_abs_path.R
 693e1ea199e39aa3de5169bd2fde8a33 *R/is_empty.R
 256f00803bf215c6e7b6adc7af0168c2 *R/start_app.R
-31e3792aed4d44a8fe704dda1907a8a8 *README.md
+eefc2940ed1d9fddfdef803f9501bb45 *README.md
 0cb9ef4fa764ae10d2f15923a66dfc20 *inst/apps/showenv/DESCRIPTION
 5e5cc1ec5d9c560e526a73d48327aa47 *inst/apps/showenv/Readme.md
 7a45b8fb038bc9bdf9fcc89de7e127e0 *inst/apps/showenv/app.R
